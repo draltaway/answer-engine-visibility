@@ -1,0 +1,6 @@
+# Client/prospect data stays local - the tool is public, the results are not
+*_report_*.html
+*_raw_audit.json
+__pycache__/
+*.pyc
+.env*
